@@ -6,14 +6,14 @@ There are 2 variations of this mounting assembly which will be referred to as ve
 ## Version A
 
 Version A consists of 4 parts:
-* holder.STL
+* holder3.STL
 * t-top.STL
 * t-left.STL
 * t-right.STL
 
-holder.STL should be printed face down as below. Be sure to **use** support material as this will certainly fail without. This part will most likely be very difficult to remove from the bed of the printer due to its high surface area.
+holder3.STL should be printed face down as below. Be sure to **use** support material as this will certainly fail without. This part will most likely be very difficult to remove from the bed of the printer due to its high surface area.
 
-![holder.STL orientation](images/holder_orientation.png)
+![holder3.STL orientation](images/holder_orientation.png)
 
 Once everything is assembled, a square of velcro can be placed in the top of this part where the PCB rests. PCB fit is shown below.
 
