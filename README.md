@@ -23,7 +23,7 @@ t-top.STL should be printed in the following orientation. It will produce 1 usab
 
 ![t-top.STL orientation](images/t-top_orientation.png)
 
-t-left.STL and t-right.STL are simply mirrors of eachother. They must be printed in the following orientation and support material **should** be used.
+t-left.STL and t-right.STL are simply mirrors of eachother. They should be printed in the following orientation and support material **must** be used.
 
 ![t-left.STL and t-right.STL orientation](images/t-sides_orientation.png)
 
